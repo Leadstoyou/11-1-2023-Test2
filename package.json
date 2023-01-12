@@ -1,0 +1,29 @@
+{
+  "name": "leadstoyou",
+  "version": "1.0.0",
+  "description": "11/1/2023 7:41 PM",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leadstoyou/11-1-2023-Test2.git"
+  },
+  "author": "Leadstoyou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leadstoyou/11-1-2023-Test2/issues"
+  },
+  "homepage": "https://github.com/Leadstoyou/11-1-2023-Test2#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
